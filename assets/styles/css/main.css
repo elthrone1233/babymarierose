@@ -753,12 +753,12 @@ body {
 }
 .tokenomiks__illustration {
   position: relative;
-  height: calc(100% + 26px);
+  height: calc(80% + 26px);
   margin-top: -26px;
 }
 @media (max-width: 1105px) {
   .tokenomiks__illustration {
-    width: 283px;
+    width: 250px;
     height: auto;
     margin-top: 24px;
   }
