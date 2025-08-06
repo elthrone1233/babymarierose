@@ -1,0 +1,71 @@
+@font-face {
+    font-family: '012Bold';
+    src: url('T-012Bold.ttf') format('truetype'),
+    url('T-012Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'geomgraphic_bold';
+    src: url('geomgraphic/geomgraphic_bold-webfont.woff2') format('woff2'),
+    url('geomgraphic/geomgraphic_bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'geomgraphic_bold_italic';
+    src: url('geomgraphic/geomgraphic_bold_italic-webfont.woff2') format('woff2'),
+    url('geomgraphic/geomgraphic_bold_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'geomgraphic_light';
+    src: url('geomgraphic/geomgraphic_light-webfont.woff2') format('woff2'),
+    url('geomgraphic/geomgraphic_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'geomgraphic_light_italic';
+    src: url('geomgraphic/geomgraphic_light_italic-webfont.woff2') format('woff2'),
+    url('geomgraphic/geomgraphic_light_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'geomgraphic_regular';
+    src: url('geomgraphic/geomgraphic_regular-webfont.woff2') format('woff2'),
+    url('geomgraphic/geomgraphic_regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'geomgraphic_regular_italic';
+    src: url('geomgraphic/geomgraphic_regular_italic-webfont.woff2') format('woff2'),
+    url('geomgraphic/geomgraphic_regular_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'geomgraphic_semibold';
+    src: url('geomgraphic/geomgraphic_semibold-webfont.woff2') format('woff2'),
+    url('geomgraphic/geomgraphic_semibold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'geomgraphic_semibold_italic';
+    src: url('geomgraphic/geomgraphic_semibold_italic-webfont.woff2') format('woff2'),
+    url('geomgraphic/geomgraphic_semibold_italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
